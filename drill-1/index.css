@@ -1,0 +1,40 @@
+.rectangle-bot {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    height: 60px;
+    width: 100%;
+    background-color: #2d2a2b;
+}
+.rectangle-left {
+    position: absolute;
+    left:0;
+    top:0;
+    height:100%;
+    width:150px;
+    background-color: #d5d7d8;
+}
+.rectangle-right {
+    position: absolute;
+    right:0;
+    top:0;
+    height:100%;
+    width:150px;
+    background-color: #d5d7d8;
+}
+.rectangle-top {
+    position: absolute;
+    right:0;
+    top:0;
+    height:175px;
+    width:100%;
+    background-color: #4d4d4f;
+}
+.background-rectangle {
+    position: absolute;
+    right:0;
+    top:0;
+    height:100%;
+    width:100%;
+    background-color: #efeff0;
+}
