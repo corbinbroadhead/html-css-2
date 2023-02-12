@@ -1,0 +1,64 @@
+.header {
+    position: relative;
+    height: 100px;
+    width: 100%;
+    top: 0;
+    left: 0;
+    background-color: lightgray;
+}
+.box-1 {
+    position: absolute;
+    height: 64px;
+    width: 64px;
+    left: 18px;
+    top: 18px;
+    background-color: royalblue;
+}
+.text-box-1 {
+    margin-top: 48px;
+    margin-bottom: 48px;
+    margin-left: 20px;
+    margin-right: 20px;
+    font-size: medium;
+}
+.palette-box-1 {
+    height: 200px;
+    width: 100%;
+    top: 0;
+    left: 0;
+    background-color: royalblue;
+}
+.palette-box-2 {
+    height: 200px;
+    width: 100%;
+    top: 0;
+    left: 0;
+    background-color:lightseagreen;
+}
+.palette-box-3 {
+    height: 200px;
+    width: 100%;
+    top: 0;
+    left: 0;
+    background-color:darkseagreen;
+}
+.palette-box-4 {
+    height: 200px;
+    width: 100%;
+    top: 0;
+    left: 0;
+    background-color:palegoldenrod;
+}
+.questions-pin {
+    position: fixed;
+    bottom: 25px;
+    right: 25px;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    background-color: #222222;
+    color: white;
+    text-align: center;
+    font-size: 42px;
+    font-family: Arial;
+}
